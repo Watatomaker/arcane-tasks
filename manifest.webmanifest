@@ -1,0 +1,19 @@
+{
+  "name": "秘典任务栏 · Arcane Tasks",
+  "short_name": "秘典任务",
+  "description": "西幻风格的任务管理：任务分类、日历、倒计时、番茄钟、记事，支持青少年/成人/老年大字三种模式。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f2e7",
+  "theme_color": "#f7f2e7",
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
